@@ -11,7 +11,7 @@
 
 
 <p align="center">Seja redirecionado à página do 
-<a href="" target="_blank">projeto</a></p>
+<a href="https://profound-zabaione-6f7c14.netlify.app/" target="_blank">projeto</a></p>
 
 
 <p> <h2 align="center">Etapas do projeto</h2></p>
